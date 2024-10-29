@@ -24,6 +24,7 @@ a{
     font-family: Verdana, Arial, Helvetica, sans-serif;
     transition: 0.5s; 
     font-size: 18px; 
+    color: #333;
 }
 a:hover{
     font-size: 19px;
